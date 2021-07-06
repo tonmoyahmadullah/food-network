@@ -1,0 +1,80 @@
+body{
+    font-family: 'Rubik', sans-serif;
+    
+}
+.flexible-item{
+    display: flex;
+    margin-bottom: 8%;
+}
+.half-width{
+    width: 50%;
+    margin-left: 9%;
+}
+#orange-color{
+    color: orange;
+}
+.extra-font{
+    font-size: 50px;
+}
+.about-me-area{
+    display: flex;
+    background-color: rgb(218, 221, 205);
+
+}
+#person-img{
+    margin-top: 25%;
+    width: 50%;
+    height: 75%;
+}
+#order-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(245, 227, 193), rgb(247, 193, 93));
+    padding: 10px 15px;
+    border-radius: 17px;
+    color: black;
+}
+#about-me-button{
+    background-image: linear-gradient(pink,rgb(253, 100, 125));
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 17px;
+    color: black;
+}
+.about-me-div{
+    width: 50%;
+    margin-left: 9%;
+    margin-top: 15%;
+}
+.recipies-area{
+    text-align: center;
+    margin-top: 10%;
+}
+
+.recipies-div{
+    display: flex;
+   width: 80%;
+   margin-top: 10%;
+   text-align: center;
+   margin-left: 100px ;
+
+}
+.recipies-item img{
+    width: 80%;
+    margin-top: 5%;
+}
+.recipies-item{
+    box-shadow: 10px 10px 40px gray ;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+footer{
+    text-align: center;
+    margin-top: 20%;
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+footer p{
+    font-size: x-small;
+}
